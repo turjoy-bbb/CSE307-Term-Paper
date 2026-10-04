@@ -1,0 +1,5 @@
+Policy,Phase 1 Faults,Phase 1 Hits,Phase 1 Hit Ratio,Phase 2 Faults,Phase 2 Hits,Phase 2 Hit Ratio,Overall Faults,Overall Hits,Overall Hit Ratio
+FIFO,2486,2514,0.5028,4820,180,0.036,7306,2694,0.2694
+LRU,2157,2843,0.5686,4819,181,0.0362,6976,3024,0.3024
+Learned Policy (Decision Tree),1767,3233,0.6466,4753,247,0.0494,6520,3480,0.348
+Optimal (Belady),1265,3735,0.747,3926,1074,0.2148,5191,4809,0.4809

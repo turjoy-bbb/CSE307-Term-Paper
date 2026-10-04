@@ -1,0 +1,34 @@
+CSE-307 OS TERM PAPER: BONUS TRACK - DECISION EXPLANATIONS & CONFIDENCE
+Student: Turjoy Barua (ID: 202414084)
+======================================================================
+
+Sample Decision #1:
+  Target Page:         Page 25
+  Model Confidence:    5.8%
+  Belady MIN Status:   Sub-optimal Heuristic Choice
+  Generated Rationale: Evicted Page 25 because historical reuse distance is high (avg reuse gap: 76.0), favoring retention of tighter looping pages.
+
+Sample Decision #2:
+  Target Page:         Page 26
+  Model Confidence:    57.0%
+  Belady MIN Status:   Sub-optimal Heuristic Choice
+  Generated Rationale: Evicted Page 26 because historical reuse distance is high (avg reuse gap: 85.0), favoring retention of tighter looping pages.
+
+Sample Decision #3:
+  Target Page:         Page 51
+  Model Confidence:    57.0%
+  Belady MIN Status:   Sub-optimal Heuristic Choice
+  Generated Rationale: Evicted Page 51 balancing moderate recency (1) against competing resident pages with higher immediate burst potential.
+
+Sample Decision #4:
+  Target Page:         Page 27
+  Model Confidence:    57.0%
+  Belady MIN Status:   Sub-optimal Heuristic Choice
+  Generated Rationale: Evicted Page 27 because historical reuse distance is high (avg reuse gap: 87.0), favoring retention of tighter looping pages.
+
+Sample Decision #5:
+  Target Page:         Page 13
+  Model Confidence:    51.4%
+  Belady MIN Status:   Sub-optimal Heuristic Choice
+  Generated Rationale: Evicted Page 13 balancing moderate recency (5) against competing resident pages with higher immediate burst potential.
+
